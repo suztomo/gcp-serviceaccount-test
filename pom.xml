@@ -15,6 +15,17 @@
       <artifactId>google-api-services-iam</artifactId>
       <version>v1-rev20210211-1.31.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.google.api-client</groupId>
+      <artifactId>google-api-client-gson</artifactId>
+      <version>1.31.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.auth</groupId>
+      <artifactId>google-auth-library-oauth2-http</artifactId>
+      <version>1.7.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>
